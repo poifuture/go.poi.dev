@@ -1,4 +1,4 @@
-# go.poi.dev
+# golink.poi.dev
 
 The demo of [golink-gh-pages][golink-gh-pages]
 
