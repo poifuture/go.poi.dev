@@ -1,0 +1,26 @@
+{
+  "name": "go.poi.dev",
+  "version": "1.0.0",
+  "description": "The demo of golink-gh-pages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/poifuture/go.poi.dev.git"
+  },
+  "keywords": [
+    "url-shorterner"
+  ],
+  "author": "nagi@poifuture.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/poifuture/go.poi.dev/issues"
+  },
+  "homepage": "https://github.com/poifuture/go.poi.dev#readme",
+  "devDependencies": {
+    "golink-gh-pages": "^1.20190712.2",
+    "serve": "^11.1.0"
+  }
+}
