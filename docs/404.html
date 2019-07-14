@@ -2,8 +2,11 @@
 permalink: /404.html
 ---
 <script>
-  var key = location.pathname.match(/^[/]([^/]*)[/]?.*$/)[1]
+  var key = location.pathname.match(/^[/]([^/?]*)[/]?.*$/)[1]
   var remain = location.href.substring(location.origin.length + key.length + 1)
+  if (remain.startsWith("/")) {
+    remain = remain.substring(1)
+  }
   if (key === "") {
     location = "https://github.com/poifuture/golink-gh-pages/"
   } else {
@@ -25,7 +28,9 @@ permalink: /404.html
       .catch(function(error) {
         console.error(error)
         /*  */
+        document.getElementById("message").innerText =
+          "Entry " + key + " not found."
       })
   }
 </script>
-Entry Not Found
+<span id="message">Jumping...</span>
