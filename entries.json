@@ -1,5 +1,6 @@
 {
-  "google": "https://www.google.com",
-  "google-maps": "https://maps.google.com",
-  "home": "https://www.poifuture.com"
+  "google": "https://www.google.com/",
+  "google-maps": "https://maps.google.com/",
+  "new-link": "https://github.com/poigolink/golink.poi.dev/edit/master/entries.json",
+  "youtube": "https://www.youtube.com/"
 }

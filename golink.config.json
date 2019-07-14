@@ -1,7 +1,8 @@
 {
   "cleanStart": false,
   "fuzzy": true,
+  "homepage": "https://github.com/poifuture/golink-gh-pages/",
   "jekyll301": false,
-  "unsafe": false,
-  "homepage": "https://github.com/poifuture/golink-gh-pages"
+  "sort": true,
+  "unsafe": false
 }
