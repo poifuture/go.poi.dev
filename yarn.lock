@@ -254,10 +254,10 @@ glob@^7.1.3:
     once "^1.3.0"
     path-is-absolute "^1.0.0"
 
-golink-gh-pages@^1.20190714.5:
-  version "1.20190714.5"
-  resolved "https://registry.yarnpkg.com/golink-gh-pages/-/golink-gh-pages-1.20190714.5.tgz#30d1f9fed6a2c80cdd0e4c3921a110f4f4f9dd59"
-  integrity sha512-CMgvWlEQwJN9cSpG9CLnvHJNCBQtI3s5poGsdHoHPB0/4XIqrHXMf5P+c22WiRVKnsgTc73plvHj8XI/3MCFVg==
+golink-gh-pages@^1.20190714.6:
+  version "1.20190714.6"
+  resolved "https://registry.yarnpkg.com/golink-gh-pages/-/golink-gh-pages-1.20190714.6.tgz#9758f5f8815590b619a4339f81126b01e9d432f4"
+  integrity sha512-GzcUumYTsQL8/wSDqWr9G7S23xIxAbFs9Pr9bQATRR35v44bHQRB9OWm/XvSabKJHTODXJ67wouHTA2A6hBAEA==
   dependencies:
     json-stable-stringify "^1.0.1"
     json5 "^2.1.0"
