@@ -1,6 +1,6 @@
 {
   "devDependencies": {
-    "golink-gh-pages": "^1.20190714.4",
+    "golink-gh-pages": "^1.20190714.5",
     "serve": "^11.1.0"
   },
   "scripts": {
